@@ -1,5 +1,7 @@
 # System Prompt Design Methodology
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 This repository synthesizes **real‑world system prompt best practices** from 64 AI platforms – including Claude, ChatGPT, Cursor, Devin, Grok, Gemini, and Manus. It provides a battle‑tested methodology and ready‑to‑use templates for designing robust, safe, and efficient AI system prompts.
 
 ---
